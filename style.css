@@ -1,0 +1,50 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+h2 {
+  border: 2px solid blue;
+  background-color: lightgray;
+}
+
+p {
+  color:gray;
+}
+
+div{
+  font-family: Arial, sans-serif;
+  font-size: 28px;
+}
+
+#top {
+  background-color: teal;
+  width: 500px;
+  height: 400px;
+  margin: 30px;
+  padding: 20px;
+  font-size: 36px;
+}
+
+#middle{
+  border: 3px solid blue;
+}
+.name{
+  font-weight: bold;
+}
+
+table{
+  border: 2px solid black;
+  border-collapse: collapse;
+  width: 50%;
+  text-align: center;
+}
+
+th,td{
+  border: 1px solid black;
+  padding: 5px;
+}
+
+th{
+  background-color: lightgray;
+}
